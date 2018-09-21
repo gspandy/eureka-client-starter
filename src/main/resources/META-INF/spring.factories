@@ -1,2 +1,6 @@
 org.springframework.context.ApplicationContextInitializer=\
 com.springcloud.eureka.context.EurekaApplicationContextInitializer
+
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.springcloud.eureka.context.EurekaAutoConfiguration
